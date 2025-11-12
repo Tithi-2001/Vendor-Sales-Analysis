@@ -107,18 +107,4 @@ SUMMARIZE(vendor_sales_summary, vendor_sales_summary[VendorName], "TotalPurchase
 | Business Logic & Measures | DAX |
 | Reporting | Interactive dashboards with filters for Vendor, Brand, and Time Period |
 
----
 
-## Outcome
-- Provided a **360° view** of vendor and brand performance.  
-- Enabled identification of **underperforming vendors** and **overstocked brands**.  
-- Supported procurement decisions that **reduced unsold inventory by 14%**.  
-- Improved overall **profit margin and cost efficiency** through data-driven planning.
-
----
-
-## Future Enhancements
-- Automate Power BI refresh using a **data gateway** linked to the live database.  
-- Incorporate **forecasting models** to predict next quarter’s sales.  
-- Add a **KPI alert system** for low stock turnover or negative profit margins.  
-- Extend analysis to **geographical and seasonal trends** for better strategic insights.
